@@ -1,5 +1,6 @@
 {
   "name": "tv-program",
+  "homepage": "https://dan-kihot8.github.io/tv-program",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
