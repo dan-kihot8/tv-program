@@ -4,7 +4,7 @@ import './App.css';
 import TVProgram from './TVProgram';
 import ChannelSelector from './ChannelSelector';
 
-export const BASE_API_URL = "http://epg.domru.ru"
+export const BASE_API_URL = "https://epg.domru.ru"
 export const IS_FINISHING_PERCENT = 20;
 
 export default class App extends Component  {
